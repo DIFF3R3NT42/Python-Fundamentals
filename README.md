@@ -1,2 +1,2 @@
-# SoftUni-Courses
-These are my solutions to the softnui course's exercises.
+# Python-Fundamentals-Softuni
+These are my solutions to the softuni course's exercises.
